@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practise\\c#\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebMaster.cs",
+              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\WebMaster.cs",
+              "RelativeDocumentMoniker": "WebMaster.cs",
+              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\WebMaster.cs",
+              "RelativeToolTip": "WebMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:42:00.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSocial.cs",
+              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\UserSocial.cs",
+              "RelativeDocumentMoniker": "UserSocial.cs",
+              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\UserSocial.cs",
+              "RelativeToolTip": "UserSocial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:38:08.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:18:54.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\MyMath.cs",
+              "RelativeDocumentMoniker": "MyMath.cs",
+              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\MyMath.cs",
+              "RelativeToolTip": "MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:18:42.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T20:27:01.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
