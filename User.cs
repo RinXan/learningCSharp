@@ -58,16 +58,24 @@ namespace ConsoleApp1
         private string _password = password;
 
         public int Id { get { return _id; } set { _id = value; } }
-        public string Login { get {  return _login; } set { _login = value; } }
+        public string Login { get { return _login; } set { _login = value; } }
         public string Password { get { return _password; } set { _password = value; } }
         public User() : this(0, "default", "qwerty")
         {
             Console.WriteLine("Default user created");
         }
-    
+
         public virtual string PrintToConsole()
         {
             return $"ID: {Id}\tLOGIN: {Login}\tPASSWORD: {Password}";
+        }
+        public static bool operator >(User a, User b)
+        {
+            return a.Id > b.Id;
+        }
+        public static bool operator <(User a, User b) 
+        {
+            return a.Id < b.Id;
         }
     }
 }
