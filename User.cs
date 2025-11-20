@@ -51,15 +51,31 @@ namespace ConsoleApp1
             Console.WriteLine($"ID: {Id}; LOGIN: {Login}; PASSWORD: {Password}");
         }
     }
-    abstract class User(int id, string login, string password)
+    abstract class User(int id, string login, string password) : ILog
     {
         private int _id = id;
         private string _login = login;
         private string _password = password;
 
         public int Id { get { return _id; } set { _id = value; } }
-        public string Login { get { return _login; } set { _login = value; } }
-        public string Password { get { return _password; } set { _password = value; } }
+        public string Login 
+        { 
+            get { return _login; } 
+            set 
+            {
+                AddToLog($"Изменен логин у пользователя с ID: {Id}");
+                _login = value; 
+            } 
+        }
+        public string Password 
+        { 
+            get { return _password; } 
+            set 
+            {
+                AddToLog($"Изменен пароль у пользователя с ID: {Id}");
+                _password = value; 
+            } 
+        }
         public User() : this(0, "default", "qwerty")
         {
             Console.WriteLine("Default user created");
@@ -78,5 +94,10 @@ namespace ConsoleApp1
             return a.Id < b.Id;
         }
         public abstract void PrintUser();
+
+        public void AddToLog(string message)
+        {
+            Console.WriteLine($"[Добавляем в ЛОГ] {message}");
+        }
     }
 }

@@ -8,7 +8,17 @@ namespace ConsoleApp1
 {
     internal class WebMaster(string url, int id, string login, string password) : User(id, login, password)
     {
-        public string Url { get; set; } = url;
+        private string _url = url;
+        public string Url
+        {
+            get { return _url; }
+            set
+            {
+                AddToLog($"Изменена ссылка у пользователя с ID: {Id}");
+                _url = value;
+            }
+        }
+
 
         public override string PrintToConsole()
         {
