@@ -14,5 +14,10 @@ namespace ConsoleApp1
         {
             return base.PrintToConsole() + $"\tURL: {Url}";
         }
+
+        public override void PrintUser()
+        {
+            Console.WriteLine(base.PrintToConsole() + $"\tURL: {Url}");
+        }
     }
 }

@@ -14,7 +14,12 @@ namespace ConsoleApp1
 
         public override string PrintToConsole()
         {
-            return base.PrintToConsole() + $"\tNAME: {Name}\tAGE: {Age}\tBALANCE: {Balance}";
+            return base.PrintToConsole() + $"\tNAME: {Name} AGE: {Age} BALANCE: {Balance}";
+        }
+
+        public override void PrintUser()
+        {
+            Console.WriteLine(base.PrintToConsole() + $"\tNAME: {Name} AGE: {Age} BALANCE: {Balance}");
         }
 
         public static UserSocial operator +(UserSocial l, UserSocial r)

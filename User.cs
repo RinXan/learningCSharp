@@ -51,7 +51,7 @@ namespace ConsoleApp1
             Console.WriteLine($"ID: {Id}; LOGIN: {Login}; PASSWORD: {Password}");
         }
     }
-    class User(int id, string login, string password)
+    abstract class User(int id, string login, string password)
     {
         private int _id = id;
         private string _login = login;
@@ -77,5 +77,6 @@ namespace ConsoleApp1
         {
             return a.Id < b.Id;
         }
+        public abstract void PrintUser();
     }
 }
