@@ -29,5 +29,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine(base.PrintToConsole() + $"\tURL: {Url}");
         }
+
+        public override string ToString()
+        {
+            return $"WebMaster object: {Url}, {Id}, {Login}, {Password}";
+        }
     }
 }

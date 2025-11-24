@@ -99,5 +99,19 @@ namespace ConsoleApp1
         {
             Console.WriteLine($"[Добавляем в ЛОГ] {message}");
         }
+
+        public override bool Equals(object obj)
+        {
+            User temp;
+            if (obj is User)
+            {
+                temp = (User)obj;
+            }
+            else 
+            {
+                return false;
+            }
+            return temp.Id == Id;
+        }
     }
 }

@@ -35,5 +35,10 @@ namespace ConsoleApp1
         {
             return new UserSocial(l.Age + r.Age, l.Name + r.Name, l.Id + r.Id, l.Login + r.Login, l.Password + r.Password);
         }
+
+        public override string ToString()
+        {
+            return $"UserSocial object: {Age}, {Name}, {Balance}, {Id}, {Login}, {Password}";
+        }
     }
 }
