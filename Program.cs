@@ -6,19 +6,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            UserSocial a1 = new(21, "Olga", 43, "olga43", "qwerty");
-            WebMaster wm = new WebMaster("not known", 1, "undefined", "hhh");
+            Shop<int> ids = new Shop<int>([1, 2, 3, 4, 5, 6]);
+            Shop<string> items = new Shop<string>(["apple", "potato"]);
 
-            a1.PrintUser();
-            
-            a1.Login = "olga_54";
-            a1.Password = "helasfjwe_fkek32!";
-            a1.Balance = 30000;
-            
-            a1.PrintUser();
-
-            wm.Url = "https://hltv.org";
-            wm.PrintUser();
+            ids.PrintObj();
+            items.PrintObj();
         }
     }
 }

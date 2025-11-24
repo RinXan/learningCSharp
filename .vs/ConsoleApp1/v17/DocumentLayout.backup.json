@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\practise\\c#\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:usersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65995E1D-1092-49C3-9948-06C7C4561D88}|ConsoleApp1.csproj|d:\\practise\\c#\\consoleapp1\\webmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,50 +38,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:18:43.389Z",
+              "WhenOpened": "2025-11-23T19:48:27.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log.cs",
+              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\Log.cs",
+              "RelativeDocumentMoniker": "Log.cs",
+              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\Log.cs",
+              "RelativeToolTip": "Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:52:01.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:18:43.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WebMaster.cs",
               "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\WebMaster.cs",
               "RelativeDocumentMoniker": "WebMaster.cs",
               "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\WebMaster.cs",
               "RelativeToolTip": "WebMaster.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T17:42:00.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T17:42:00.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UserSocial.cs",
               "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\UserSocial.cs",
               "RelativeDocumentMoniker": "UserSocial.cs",
               "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\UserSocial.cs",
               "RelativeToolTip": "UserSocial.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T17:38:08.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T17:38:08.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MyMath.cs",
               "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\MyMath.cs",
               "RelativeDocumentMoniker": "MyMath.cs",
@@ -85,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\practise\\c#\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\practise\\c#\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T20:27:01.251Z",
               "EditorCaption": ""
